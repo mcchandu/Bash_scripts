@@ -18,6 +18,10 @@ echo ""
 
 echo "Current Shell: $SHELL"
 
+echo ""
 
+echo "Current Path: $PWD"
 
+echo ""
 
+echo "Login Term: $TERM"
