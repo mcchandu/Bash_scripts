@@ -24,4 +24,4 @@ echo "Current Path: $PWD"
 
 echo ""
 
-echo "Login Term: $TERM"
+echo "Login Terminal: $TERM"
